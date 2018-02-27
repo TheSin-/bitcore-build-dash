@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/TheSin-/bitcore-build-terracoin"
+    "url": "git://github.com/terracoin/bitcore-build-terracoin"
   },
   "keywords": [
     "bitcore"
@@ -37,9 +37,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TheSin-/bitcore-build-terracoin/issues"
+    "url": "https://github.com/terracoin/bitcore-build-terracoin/issues"
   },
-  "homepage": "https://github.com/TheSin-/bitcore-build-terracoin",
+  "homepage": "https://github.com/terracoin/bitcore-build-terracoin",
   "dependencies": {
     "brfs": "^1.4.3",
     "browserify": "^13.1.1",
